@@ -29,5 +29,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.АдресныйКлассификатор</commonModules>
+  <commonModules>CommonModule.ТестовыйМодуль</commonModules>
 </mdclass:Configuration>
