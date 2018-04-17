@@ -30,6 +30,12 @@ Procedure procedureName(Val value1,
 	OrExp = True Or False;
 	NotExp = Not True;
 	
+	Var1 = 123;
+	Var2 = "123";
+	Var3 = "some123text";
+	
+	Id = New UUID("814d41ec-82e2-4d25-9334-8335e589fc1f");
+		
 EndProcedure
 
 #Endif
