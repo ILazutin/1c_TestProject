@@ -1,3 +1,5 @@
+#If Server Or ThickClientOrdinaryApplication Or ExternalConnection Then
+
 #Region RegionName
 	
 Var Var1, Var2 Export;
@@ -75,3 +77,5 @@ Function functionName(One, Two, Three)
 EndFunction
 	
 #EndRegion
+
+#EndIf
