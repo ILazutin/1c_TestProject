@@ -15,9 +15,13 @@ Procedure procedureName(Val value1,
 	value3 = Undefined,
 	value4 = Something) Export
 	
+	#Region Variables
+	
 	Yes = True;
 	No = False;
-
+	
+	#EndRegion
+	
 	a = ?(Not ValueIsFilled(Undefined), "", "success");
 	B = "some text with ""quotes"" and " + "concatenation";
 	C = "multiline

@@ -28,6 +28,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.ТестовыйМодульRu</commonModules>
-  <commonModules>CommonModule.ТестовыйМодульEn</commonModules>
+  <commonModules>CommonModule.ТестовыйМодуль</commonModules>
+  <commonModules>CommonModule.TestModule</commonModules>
 </mdclass:Configuration>
