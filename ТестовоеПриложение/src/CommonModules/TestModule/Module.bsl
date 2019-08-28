@@ -5,7 +5,8 @@
 Var Var1, Var2 Export;
 
 #If Server Then
-	
+
+// Test review creation	
 		
 // Procedure comment
 // 
