@@ -6,7 +6,8 @@ Var Var1, Var2 Export;
 
 #If Server Then
 
-// Test branch exclusions	
+// Test branch exclusions
+// Test new command	
 		
 // Procedure comment
 // 
