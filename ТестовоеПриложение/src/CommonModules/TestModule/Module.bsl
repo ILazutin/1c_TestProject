@@ -2,7 +2,7 @@
 
 #Region RegionName
 	
-Var Var1, Var2 Export;
+Var Var1, Var2, Var3 Export;
 
 #If Server Then
 
